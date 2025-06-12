@@ -86,3 +86,7 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+## Github Graph
+![Gen2Rick's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gen2rick&custom_title=Gen2Rick's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
