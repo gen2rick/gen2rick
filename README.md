@@ -86,4 +86,4 @@
 
 
 ## Github Graph
-![Gen2Rick's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gen2rick&custom_title=Gen2Rick's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=gen2rick&custom_title=gen2rick's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
