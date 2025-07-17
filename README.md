@@ -64,26 +64,4 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 </div>
 
-</td></tr></table>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gen2rick&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=gen2rick&style=flat-square" align="center" />
-</div>  
-  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-## Github Graph
-  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=gen2rick&custom_title=gen2rick's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+</td></tr></table>
